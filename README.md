@@ -8,6 +8,6 @@ working with MTA:SA, FiveM, and web development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,ts,javascript,react,redux,tailwind,nodejs,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=lua,ts,javascript,react,tailwind,nodejs,mysql,git" />
   </a>
 </p>
